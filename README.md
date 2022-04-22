@@ -1,19 +1,19 @@
   <h1 align="center">Hi 👋, I'm Shovon Biswas</h1>
   <h2 align="center">A passionate frontend developer from Bangladesh</h2>
 
-##🔭I’m currently working on: AS WEB DEVELOPER
+🔭I’m currently working on: AS a WEB DEVELOPER.
 
-🌱 I’m currently learning: WEB DEVELOPMENT ALL OF BASIC TO ADVANCE  
+🌱 I’m currently learning: Web developmenrt basic to advance .
 
-👯 I’m looking to collaborate on:All of my developer community friend.Please help us all time.. 
+👯 I’m looking to collaborate on:All of my developer community friend.Please help me all time.
 
 🤝 I’m looking for help with:frontend-development project 
 
 👨‍💻 All of my projects are available at:GitHub 
 
-💬 Ask me about:How can I help you and what's false about me...
+💬 Ask me about: How can I help you and what's false about me...
 
-📄 Know about my experiences: I am a intemidiate persion, 
+📄 Know about my experiences: I am a intemidiate persion as a developer, 
 
 ⚡ Fun fact :I learn alaways new skill.
 
