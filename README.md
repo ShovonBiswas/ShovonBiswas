@@ -1,7 +1,7 @@
   <h1 align="center">Hi 👋, I'm Shovon Biswas</h1>
   <h2 align="center">A passionate frontend developer from Bangladesh</h2>
 
-###3🔭I’m currently working on: AS WEB DEVELOPER
+###🔭I’m currently working on: AS WEB DEVELOPER
 
 ### 🌱 I’m currently learning: WEB DEVELOPMENT ALL OF BASIC TO ADVANCE  
 
@@ -15,7 +15,8 @@
 
 ### 📄 Know about my experiences: I am a intemidiate persion, 
 
-- ⚡ Fun fact **m**
+###⚡ Fun fact :I learn alaways new skill.
+
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://fb.com/q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="q" height="30" width="40" /></a>
